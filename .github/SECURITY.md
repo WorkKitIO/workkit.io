@@ -11,7 +11,7 @@ We actively maintain the latest stable version of WorkKit.io. Older versions may
 ## Reporting a Vulnerability  
 If you discover a security vulnerability, please **DO NOT** create a public issue. Instead, report it privately:  
 
-📧 **Email:** security@workkit.io *(Replace with your actual security contact email)*  
+📧 **Email:** security@workkit.io
 
 🔒 We take security seriously and will review all reports promptly.  
 

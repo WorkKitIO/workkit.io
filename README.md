@@ -1,29 +1,52 @@
-# Create T3 App
+# WorkKit.io 🚀
 
-This is a [T3 Stack](https://create.t3.gg/) project bootstrapped with `create-t3-app`.
+**Your Open-Source Freelancer Management Toolkit**
 
-## What's next? How do I make an app with this?
+WorkKit.io is a self-hosted, open-source platform that helps freelancers streamline project management, client tracking, task assignments, invoicing, and time tracking—all in one place.
 
-We try to keep this project as simple as possible, so you can start with just the scaffolding we set up for you, and add additional things later when they become necessary.
+## 🌟 Why WorkKit.io?
+- **Self-Hosted Freedom** – Own your data, host it anywhere.
+- **Developer-Friendly** – Built with modern tech, easy to extend.
+- **All-in-One Solution** – From project tracking to payments.
 
-If you are not familiar with the different technologies used in this project, please refer to the respective docs. If you still are in the wind, please join our [Discord](https://t3.gg/discord) and ask for help.
+## ✨ Features
+- 📁 **Client & Project Management** – Keep everything organized.
+- ✅ **Task & Deadline Tracking** – Never miss a deadline.
+- 💰 **Invoicing & Payments** – Automate your billing.
+- ⏱️ **Time Tracking & Reports** – Optimize your workflow.
+- 🔄 **Customizable & Extensible** – Tailor it to your needs.
 
-- [Next.js](https://nextjs.org)
-- [NextAuth.js](https://next-auth.js.org)
-- [Prisma](https://prisma.io)
-- [Drizzle](https://orm.drizzle.team)
-- [Tailwind CSS](https://tailwindcss.com)
-- [tRPC](https://trpc.io)
+### Built With
 
-## Learn More
+- [Next.js](https://nextjs.org/)
+- [tRPC](https://trpc.io/)
+- [React.js](https://reactjs.org/)
+- [Tailwind CSS](https://tailwindcss.com/)
+- [Prisma.io](https://prisma.io/)
+- [T3 Stack](https://create.t3.gg/)
 
-To learn more about the [T3 Stack](https://create.t3.gg/), take a look at the following resources:
 
-- [Documentation](https://create.t3.gg/)
-- [Learn the T3 Stack](https://create.t3.gg/en/faq#what-learning-resources-are-currently-available) — Check out these awesome tutorials
+## 🚀 Getting Started
+### 1️⃣ Installation
+Clone the repository and install dependencies:
+```sh
+pnpm install
+pnpm dev
+```
 
-You can check out the [create-t3-app GitHub repository](https://github.com/t3-oss/create-t3-app) — your feedback and contributions are welcome!
+### 2️⃣ Deployment
+WorkKit.io supports various hosting options. Check our documentation for setup guides.
 
-## How do I deploy this?
+### 3️⃣ Contributing
+We welcome contributions! Check [CONTRIBUTING.md](CONTRIBUTING.md) for details on how to contribute.
 
-Follow our deployment guides for [Vercel](https://create.t3.gg/en/deployment/vercel), [Netlify](https://create.t3.gg/en/deployment/netlify) and [Docker](https://create.t3.gg/en/deployment/docker) for more information.
+## 📄 License
+WorkKit.io is open-source under the [MIT License](LICENSE).
+
+## 💬 Community & Support
+- 💡 Have a question? Open a [GitHub Discussion](https://github.com/workkitio/workkit.io/discussions).
+- 🐛 Found a bug? Report it via [GitHub Issues](https://github.com/workkitio/workkit.io/issues).
+- 🤝 Want to contribute? Check our open issues and PRs!
+
+Join the community and help build the best freelancer toolkit! 🚀
+
