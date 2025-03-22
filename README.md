@@ -16,7 +16,7 @@ WorkKit.io is a self-hosted, open-source platform that helps freelancers streaml
 - ⏱️ **Time Tracking & Reports** – Optimize your workflow.
 - 🔄 **Customizable & Extensible** – Tailor it to your needs.
 
-### Built With
+## 🛠️ Built With
 
 - [Next.js](https://nextjs.org/)
 - [tRPC](https://trpc.io/)
