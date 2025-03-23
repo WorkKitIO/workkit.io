@@ -23,6 +23,7 @@ export const waitlistRouter = createTRPCRouter({
         return {
           success: false,
           message: "Email already exists or is invalid.",
+          error: error,
         };
       }
     }),

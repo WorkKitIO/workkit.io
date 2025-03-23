@@ -2,8 +2,6 @@
 
 import { useState, useEffect } from "react";
 import { motion } from "framer-motion";
-import { Button } from "@/components/ui/button";
-import { Input } from "../ui/input";
 import MockDashboard from "../MarkUp";
 import WaitlistForm from "../forms/waitlist-form";
 
@@ -23,11 +21,9 @@ export function Hero({
   subtitle = "The all-in-one platform for teams to collaborate, manage projects, and deliver results faster than ever before.",
 }: HeroProps) {
   const [isVisible, setIsVisible] = useState(false);
-  const [waitlist, setWaitlist] = useState(0);
 
   useEffect(() => {
     setIsVisible(true);
-    setWaitlist(1)
   }, []);
 
   const containerVariants = {
